@@ -12,15 +12,15 @@
 
 .cabecalho {
     grid-area: cabecalho;
-    background: green;
+    
 }
  
 .conteudo {
     grid-area: conteudo;
-    background: red;
+    
 }
 
 .rodape {
     grid-area: rodape;
-    background: blue;
+    
     }
